@@ -1,0 +1,52 @@
+# University Management System
+
+## Project Overview
+
+This project implements a University Management System using PostgreSQL. It manages students, professors, courses, and enrollments while demonstrating database design and SQL analysis techniques.
+
+## Technologies Used
+
+* PostgreSQL
+* SQL
+* GitHub
+
+## Database Tables
+
+* Students
+* Professors
+* Courses
+* Enrollments
+
+## Features
+
+* Student Management
+* Course Management
+* Professor Management
+* Enrollment Tracking
+* Student Performance Analysis
+
+## SQL Concepts Demonstrated
+
+* Primary Keys
+* Foreign Keys
+* Joins
+* Aggregate Functions
+* Window Functions
+* Subqueries
+* Views
+
+## Analysis Performed
+
+* Students by Department
+* Average Grade by Course
+* Top Performing Students
+* Course Distribution
+* Student Rankings
+
+## Files
+
+* university_management_system.sql – Complete database creation, data insertion, and analysis queries.
+
+## Author
+
+Sayankita Paul
